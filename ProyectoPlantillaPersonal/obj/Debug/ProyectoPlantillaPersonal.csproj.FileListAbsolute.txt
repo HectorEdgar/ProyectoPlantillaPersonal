@@ -1,0 +1,15 @@
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\bin\Debug\ProyectoPlantillaPersonal.exe.config
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\bin\Debug\ProyectoPlantillaPersonal.exe
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\bin\Debug\ProyectoPlantillaPersonal.pdb
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.csprojResolveAssemblyReference.cache
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Properties.Resources.resources
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.csproj.GenerateResource.Cache
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.exe
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.pdb
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Formularios.MenuPrincipalAdministrador.resources
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Loggin.resources
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\bin\Debug\EntityFramework.dll
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\bin\Debug\EntityFramework.xml
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Formularios.MenuPrincipalGestor.resources
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Formularios.MenuPrincipalVisor.resources
+C:\Users\hetor\Documents\Visual Studio 2015\Projects\Escuela\IS6A\Gestion de proyectos tecnologicos\ProyectoPlantillaPersonal\ProyectoPlantillaPersonal\obj\Debug\ProyectoPlantillaPersonal.Formularios.Administrador.CuentaAgregar.resources
